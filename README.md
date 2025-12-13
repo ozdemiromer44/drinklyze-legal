@@ -2,7 +2,7 @@
 This policy outlines the procedure for users of the DrinkLyze mobile application to request the deletion of their personal and application-related data, in compliance with Google Play Developer Program policies.
 
 1. About DrinkLyze Data
-The DrinkLyze application, operated by [Omer Ozdemir / Temizbelediye@gmail.com] (Developer Name), is primarily an anonymous utility tool. We do not require or collect personal identifying information such as names, email addresses (except for contact/support requests), or phone numbers.
+The DrinkLyze application, operated by [Omer Ozdemir / ozdemir.omer445@gmail.com], is primarily an anonymous utility tool. We do not require or collect personal identifying information such as names, email addresses (except for contact/support requests), or phone numbers.
 
 The data we process and store are:
 
