@@ -1,33 +1,59 @@
 # Privacy Policy for DrinkLyze
 
-**Last Updated:** December 11, 2025
+**Last Updated:** December 16, 2025
 
-**1. Introduction**
-Welcome to DrinkLyze. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our application and tell you about your privacy rights.
+DrinkLyze ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application ("App").
 
-**2. Data We Collect**
-* **Images:** We collect images of beverages that you upload or capture via the camera solely for the purpose of analysis. These images are processed by Google Gemini AI and stored locally on your device. We do not permanently store your personal photos on our external servers.
-* **Usage Data:** We use Firebase and Google AdMob to collect anonymous usage data (e.g., app crashes, screen time, ad interactions) to improve app performance and display relevant advertisements.
-* **Device Identifiers:** We may collect device IDs (IDFA) with your permission to show personalized ads.
+### 1. Information We Collect
 
-**3. Third-Party Services**
-We use the following third-party services which may collect information used to identify you:
-* **Google AdMob:** For displaying advertisements.
-* **Google Gemini API:** For image analysis.
-* **Firebase (Google):** For analytics and database services.
+**a. Information You Provide:**
+* **Account Data:** When you create an account, we may collect your name, email address, and profile photo. If you use the app as a "Guest," we create an anonymous identifier.
+* **User Content:** Messages, photos, and interactions you share in the "Lounge" (Chat) feature.
+* **Support:** Information you provide when you contact us for support.
 
-**4. How We Use Your Data**
-* To provide the core functionality of beverage analysis.
-* To manage your "Credits" balance via StoreKit.
-* To improve our AI models (anonymized data only).
-* To display advertisements.
+**b. Automatically Collected Information:**
+* **Device Information:** Device model, OS version, and unique device identifiers (for functionality and security).
+* **Usage Data:** How you interact with the app, including scan history, features used, and engagement duration.
+* **Location Data:** Approximate location data may be collected by third-party ad partners (like Google AdMob) to show relevant ads, depending on your device settings.
 
-**5. Data Retention**
-Your analysis history is stored locally on your device and in your private iCloud container (if enabled). You can delete your history at any time from the app settings.
+**c. Camera and Photos:**
+* We require access to your device's **Camera** and **Photo Library** to allow you to scan drinks for AI analysis and to share images in the chat (for Elite members).
+* **AI Processing:** Images you upload for analysis are processed using artificial intelligence models (Google Gemini). These images are processed to provide the analysis and are not used to train public AI models without your consent.
 
-**6. Your Rights**
-You have the right to request the deletion of your data. You can use the "Clear History" button in the app settings or contact us at * By email: ozdemir.omer445@gmail.com
+### 2. How We Use Your Information
 
-**7. Contact Us**
-If you have any questions about this Privacy Policy, please contact us:
-* By email: ozdemir.omer445@gmail.com
+We use the collected information to:
+* Provide and improve the DrinkLyze AI analysis service.
+* Manage your account, "Credits," "Streaks," and "Daily Quests."
+* Facilitate the social "Lounge" features and moderate content.
+* Process subscriptions (DrinkLyze PLUS & ELITE) via app store providers.
+* Display personalized advertisements (via Google AdMob) to keep the basic version free.
+* Send push notifications regarding your streaks, rewards, or chat replies.
+
+### 3. Third-Party Services
+
+We may share data with trusted third-party services that help us operate:
+* **Google Firebase:** For authentication, database hosting, and analytics.
+* **Google AdMob:** To display advertisements.
+* **Google Gemini AI:** To process image analysis.
+* **RevenueCat / App Stores:** To manage in-app purchases and subscriptions.
+
+### 4. User Generated Content (Chat)
+
+Information you share in public Lounge rooms is visible to other users. We are not responsible for how other users use this information. Please do not share sensitive personal information in public chats.
+
+### 5. Data Retention & Deletion
+
+* **Retention:** We retain your analysis history and account data as long as your account is active.
+* **Deletion:** You can delete your account and all associated data directly within the App settings. Once deleted, this action cannot be undone.
+
+### 6. Children's Privacy
+
+DrinkLyze is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+
+### 7. Changes to This Policy
+
+We may update this policy from time to time. We will notify you of any changes by posting the new policy on this page.
+
+**Contact Us:**
+If you have questions, please contact us at: ozdemir.omer445@gmail.com
