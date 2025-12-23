@@ -40,7 +40,7 @@ We may share data with trusted third-party services that help us operate:
 * **Google Firebase:** For authentication, database hosting, and analytics.
 * **Google AdMob:** To display advertisements.
 * **Google Gemini AI:** To process image analysis.
-* **RevenueCat & Apple App Store: We use RevenueCat to manage subscription logic and the Apple App Store for payment processing. These services may collect information related to your purchases to ensure seamless delivery of premium content across your devices.
+* **RevenueCat & Apple** App Store: We use RevenueCat to manage subscription logic and the Apple App Store for payment processing. These services may collect information related to your purchases to ensure seamless delivery of premium content across your devices.
 
 ### 4. User Generated Content (Chat)
 
