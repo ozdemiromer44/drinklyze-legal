@@ -21,7 +21,7 @@ DrinkLyze ("we," "our," or "us") is committed to protecting your privacy. This P
 * **AI Processing:** Images you upload for analysis are processed using artificial intelligence models (Google Gemini). These images are processed to provide the analysis and are not used to train public AI models without your consent.
 
 **d. Financial and Transactional Information:**
-*When you purchase a subscription (DrinkLyze PLUS or ELITE), the transaction is processed entirely by the Apple App Store. We do not collect, access, or store your credit card numbers or billing information. We only *receive a transaction identifier and a digital receipt from Apple to verify your purchase and provide access to premium features.
+When you purchase a subscription (DrinkLyze PLUS or ELITE), the transaction is processed entirely by the Apple App Store. We do not collect, access, or store your credit card numbers or billing information. We only receive a transaction identifier and a digital receipt from Apple to verify your purchase and provide access to premium features.
 
 ### 2. How We Use Your Information
 
