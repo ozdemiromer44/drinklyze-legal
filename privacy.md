@@ -1,6 +1,6 @@
 # Privacy Policy for DrinkLyze
 
-**Last Updated:** December 16, 2025
+**Last Updated:** December 23, 2025
 
 DrinkLyze ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application ("App").
 
@@ -20,6 +20,9 @@ DrinkLyze ("we," "our," or "us") is committed to protecting your privacy. This P
 * We require access to your device's **Camera** and **Photo Library** to allow you to scan drinks for AI analysis and to share images in the chat (for Elite members).
 * **AI Processing:** Images you upload for analysis are processed using artificial intelligence models (Google Gemini). These images are processed to provide the analysis and are not used to train public AI models without your consent.
 
+**d. Financial and Transactional Information:**
+*When you purchase a subscription (DrinkLyze PLUS or ELITE), the transaction is processed entirely by the Apple App Store. We do not collect, access, or store your credit card numbers or billing information. We only *receive a transaction identifier and a digital receipt from Apple to verify your purchase and provide access to premium features.
+
 ### 2. How We Use Your Information
 
 We use the collected information to:
@@ -29,6 +32,7 @@ We use the collected information to:
 * Process subscriptions (DrinkLyze PLUS & ELITE) via app store providers.
 * Display personalized advertisements (via Google AdMob) to keep the basic version free.
 * Send push notifications regarding your streaks, rewards, or chat replies.
+* To manage and maintain your auto-renewable subscriptions, including verification of active status and processing of renewals through the App Store.
 
 ### 3. Third-Party Services
 
@@ -36,7 +40,7 @@ We may share data with trusted third-party services that help us operate:
 * **Google Firebase:** For authentication, database hosting, and analytics.
 * **Google AdMob:** To display advertisements.
 * **Google Gemini AI:** To process image analysis.
-* **RevenueCat / App Stores:** To manage in-app purchases and subscriptions.
+* **RevenueCat & Apple App Store: We use RevenueCat to manage subscription logic and the Apple App Store for payment processing. These services may collect information related to your purchases to ensure seamless delivery of premium content across your devices.
 
 ### 4. User Generated Content (Chat)
 
